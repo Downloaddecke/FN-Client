@@ -1,6 +1,6 @@
 # FN-Client
 
-
+[Download 1.0](https://github.com/Downloaddecke/FN-Client/releases/tag/1.0)
 
 ![image](https://github.com/user-attachments/assets/f4ec6c6b-990e-4e47-b2f7-9bf96e638bdd)
 
